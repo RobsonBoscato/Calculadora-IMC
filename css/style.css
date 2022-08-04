@@ -1,0 +1,21 @@
+body {
+  padding: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: lightgray;
+}
+
+#paragraph-result {
+  margin-top: 50px;
+}
+
+input {
+  width: 150px;
+}
+
+label {
+  font-family: 'JetBrains mono';
+}
+
+footer {
+  width: 100px;
+}
